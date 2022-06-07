@@ -1,5 +1,5 @@
 // a donde redirigimos
-const rrurl = 'https://blog.remax.com.ar/';
+const rrurl = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ';
 
 const form = document.querySelector('#formulario')
 
